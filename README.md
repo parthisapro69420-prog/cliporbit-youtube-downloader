@@ -13,9 +13,9 @@ ClipOrbit is built for people who want a straightforward MP4 downloader without 
 - Pick a custom output folder
 - Build a standalone Windows EXE with PyInstaller
 
-## Screenshots / Demo
+demo:
 
-A demo video can be added here after the first release.
+
 
 ## Download
 
