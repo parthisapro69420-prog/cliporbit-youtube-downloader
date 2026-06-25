@@ -17,6 +17,12 @@ demo:
 
 
 
+https://github.com/user-attachments/assets/f8233176-41c9-4595-a269-7e2eeb095e3e
+
+
+
+
+
 ## Download
 
 For normal users, download `ClipOrbit.exe` from the repository releases page once a release is published.
